@@ -53,6 +53,7 @@ Website for a learning therapy practice specializing in LRS and dyscalculia.
 [lernen-zick.de](https://www.lernen-zick.de)
 
 **Landinpage**
+
 [Founded by Dominik Klossika.](https://clado.arrive-eta.workers.dev/)
 
 ---
