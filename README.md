@@ -24,7 +24,7 @@ Users choose a destination and their mode of transport, then share a simple link
 
 ---
 
-### ShoplyAI
+### Avo
 
 An AI-powered shopping application designed to make planning and managing everyday shopping easier.
 
