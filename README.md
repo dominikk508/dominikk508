@@ -52,6 +52,9 @@ Website for a learning therapy practice specializing in LRS and dyscalculia.
 
 [lernen-zick.de](https://www.lernen-zick.de)
 
+**Landinpage**
+Founded by Dominik Klossika.
+
 ---
 
 ## What I Work With
